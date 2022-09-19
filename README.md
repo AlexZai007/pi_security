@@ -15,7 +15,7 @@
 
 ### STEP 1 (INTPUT: Z)
 To process the request, we find the character that we received as input and remember the index in the dictionary
-In this example, we received "Z" as input, the index in the dictionary is 32, the name for the prostate is "LetterIndex"
+In this example, we received "Z" as input, the index in the dictionary is 32, the name for the simplicity is "LetterIndex"
 
 ### Step 2
 3.1  4  1  5  9  2  6  5  3  5  8  9  7 9  3
